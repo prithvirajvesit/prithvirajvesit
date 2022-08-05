@@ -1,4 +1,4 @@
-## Hola, I'm Prithviraj Chavan! 👋
+## Hello, I'm Prithviraj Chavan! 👋
 
 - 🔭 I’m currently working on project 'Forecasting of Carbon Emission' .
 - 🌱 I’m currently learning Advance Java.
